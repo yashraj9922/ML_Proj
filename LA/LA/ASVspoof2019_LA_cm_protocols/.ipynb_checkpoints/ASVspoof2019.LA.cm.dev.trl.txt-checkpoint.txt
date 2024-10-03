@@ -1,0 +1,4 @@
+LA_0069 LA_D_1002318 - - spoof
+LA_0069 LA_D_1003797 - - bonafide
+LA_0069 LA_D_1005971 - - spoof
+LA_0069 LA_D_1009810 - - spoof

@@ -1,0 +1,4 @@
+LA_0079 LA_T_1000137 - - bonafide
+LA_0079 LA_T_1007663 - - bonafide
+LA_0079 LA_T_1025067 - - bonafide
+LA_0079 LA_T_1040732 - - spoof
